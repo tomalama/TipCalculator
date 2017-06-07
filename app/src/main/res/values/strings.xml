@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string-array name="currencyArray">
+        <item>$</item>
+        <item>€</item>
+        <item>£</item>
+    </string-array>
+</resources>
